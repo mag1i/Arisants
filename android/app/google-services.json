@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72357090181",
+    "firebase_url": "https://mag-dev-29e3c.firebaseio.com",
+    "project_id": "mag-dev-29e3c",
+    "storage_bucket": "mag-dev-29e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72357090181:android:8cb8bb2ea4276fb845aaec",
+        "android_client_info": {
+          "package_name": "com.magi.artisants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72357090181-5l844teo35gtksr2c32c2i09v0fdmit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCD8IRekl6Y1d9koe5vvzBidGl4yrXUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72357090181-5l844teo35gtksr2c32c2i09v0fdmit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
